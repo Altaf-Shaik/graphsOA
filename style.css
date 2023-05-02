@@ -1,0 +1,43 @@
+* {
+    margin: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #003f73;
+}
+
+input {
+    background: #c2e3ff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: large;
+}
+
+.bar {
+    height: 250px;
+    width: 80px;
+    background-color: #008CFF;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.min-val-alert {
+    color: red;
+}
+
+.invalid-input {
+    border: 2px solid red;
+    box-shadow: 1 1 5px;
+}
+
+.pie {
+    width: 250px;
+    height: 250px;
+    background-color: #008CFF;
+    border-radius: 100%;
+    color: white;
+}
+
+.row {
+    margin: 12px;
+    padding: 15px;
+}
